@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:snake"
         mc:Ignorable="d"
         KeyDown="canvas_KeyDown"
-        Title="SnakeGame" Height="450" Width="800">
+        Title="SnakeGame" Height="800" Width="800">
     <Grid>
         <Canvas Name="canvas" ></Canvas>
     </Grid>
