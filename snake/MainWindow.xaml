@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:snake"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        KeyDown="canvas_KeyDown"
+        Title="SnakeGame" Height="450" Width="800">
     <Grid>
-        
+        <Canvas Name="canvas" ></Canvas>
     </Grid>
 </Window>
